@@ -1,0 +1,560 @@
+body {
+	margin: 0px;
+	padding: 0px;
+	background-color: #000A7F;
+	}
+
+.wrapper{
+	width: 860px;
+	height: 720px;
+	background-color: #5D5E61;
+	margin: 0px auto;
+/*	display: none;*/
+	opacity: 0;
+}
+
+#memory{
+	height: 100px;
+	width: 500px;
+	margin: 0px auto;
+	margin-top: 300px;
+	color: white;
+	font-family: futura;
+}
+
+#startButton{
+	height: 50px;
+	width: 150px;
+	margin-left: 620px;
+	font-family: futura;
+	font-size: 20px;
+	color: white;
+	background-color: #5D5E61;
+}
+
+#startButton:hover {
+	background-color: #000A7F;
+	border: 3px #5D5E61 solid;
+	cursor: pointer;
+}
+
+#picBox1{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox1:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox2{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox2:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox3{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox3:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox4{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox4:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox5{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox5:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox6{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox6:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox7{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox7:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox8{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox8:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox9{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox9:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox10{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox10:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox11{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox11:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox12{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox12:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox13{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox13:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox14{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox14:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox15{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox15:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox16{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox16:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox17{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox17:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox18{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox18:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox19{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox19:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox20{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox20:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox21{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox21:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox22{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox22:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox23{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox23:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox24{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox24:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox25{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox25:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox26{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox26:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox27{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox27:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox28{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox28:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox29{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox29:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+#picBox30{
+	width: 100px;
+	height: 100px;
+	background-image: url("../images/cardBack.png");
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	margin: 20px;
+	display: inline-block;
+
+}
+
+#picBox30:hover{
+	opacity: .5;
+	cursor: pointer;
+}
+
+
+
+
+
+/*-webkit-transition-duration: .5s;
+	-o-transition-duration: .5s;
+	-moz-transition-duration: .5s;
+	-ms-transition-duration: .5s;
+	transition-duration: .5s;*/
+
